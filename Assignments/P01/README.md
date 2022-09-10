@@ -11,4 +11,4 @@ hashmat's or his enemies soldier count. The input numbers will not exceed
 | Folder | Description |
 | :---:  | ----------- |
 | [main.cpp](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/Assignments/P01/main.cpp) | contains all source code | 
-| Compile | how the code is compiled |
+| [Compile](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/Assignments/P01/HowTo.md) | how the code is compiled |
