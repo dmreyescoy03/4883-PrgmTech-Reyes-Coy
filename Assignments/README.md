@@ -1,8 +1,8 @@
 ##  Assignments Folder
 
-|   #   | Folder Link | Assign. Description |
+|   #   | Folder Link | Description |
 | :---: | ------------| ------------------- |
-|   1   | [A03]()  | Banner Page |
+|   1   | [A03](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/tree/main/Assignments/A03)  | Banner Page |
 |   2   | []()  |
 |   3   | []()  |
 |   4   | []()  |
