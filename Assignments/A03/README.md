@@ -6,6 +6,7 @@
 
 ## Assignment (A01,02,03) 
 ## Part 1: Create a banner
+- [![ssb.png](https://i.postimg.cc/N0Bzjq20/ssb.png)](https://postimg.cc/68b0MP0s)
 
 ## Part 2: Online Judge Registration
  - UVA Online Judge Name: Hi.RC (ID: 1325618)
