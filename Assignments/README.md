@@ -2,7 +2,7 @@
 
 |   #   | Folder Link | Assign. Description |
 | :---: | ------------| ------------------- |
-|   1   | [A03]()  | Bannar Page |
+|   1   | [A03]()  | Banner Page |
 |   2   | []()  |
 |   3   | []()  |
 |   4   | []()  |
