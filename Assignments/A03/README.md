@@ -15,4 +15,4 @@
 
 |   #   | Folder | Description |
 | :---: | ------ | ----------- |
-|   01  | [P01]()|<https://onlinejudge.org/external/100/10055.pdf>
+|   01  | [P01](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/tree/main/Assignments/P01)|<https://onlinejudge.org/external/100/10055.pdf>
