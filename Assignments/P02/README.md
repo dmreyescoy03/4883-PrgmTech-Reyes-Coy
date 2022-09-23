@@ -18,3 +18,10 @@
 | [main.cpp](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/Assignments/P02/main.cpp) | Main Code |
 | [in1](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/Assignments/P02/in1) | input Data |
 
+# Data Structure:
+>- A part of c++ STL.
+- A Map is used for this program. It takes a string (the tree name), and 
+ an int (the percentage) and makes them a pair. Maps are always sorted
+ by smallest element at the beginning to greatest element at the end.
+
+
