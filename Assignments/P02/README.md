@@ -1,4 +1,4 @@
-# Program 2:
+# Program 3:
 - HardWood Species:
 - PDF: [HardWood](https://onlinejudge.org/external/102/10226.pdf)
 
