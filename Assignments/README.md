@@ -1,5 +1,6 @@
 ##  Assignments Folder
 
+:incoming_envelope:
 ##  Assignments Folder
 > - Complete = ✅ Incomplete = 🛑
 
