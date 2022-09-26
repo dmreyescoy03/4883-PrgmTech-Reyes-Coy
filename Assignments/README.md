@@ -12,5 +12,5 @@
 |   4   | [P03](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/tree/main/Assignments/P03)  | HardWood Species | ✅ |
 |   5   | [P04]()  | Rails | 🛑 |
 |   6   | [P05]()  | Scissors Rock Paper | 🛑 |
-|   7   | [P06]()  | Everythin Bipartite | 🛑 |             
+|   7   | [P06]()  | Everything Bipartite | 🛑 |             
 |   8   | []()  | 
