@@ -1,3 +1,8 @@
+/*
+* Name: David Reyes-coy
+* Course: 4883 Programming Techniques
+* Date: 09/09/2022
+*/
 #include <iostream>
 #include <math.h>
 
