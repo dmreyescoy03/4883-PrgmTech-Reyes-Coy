@@ -13,7 +13,7 @@
   containing ‘0 0 0’. Each test case has three positive
   integers, denoting the lengths of the sides of a triangle.
 
-|                                                Folder                                                | Description              |
-| :---------------------------------------------------------------------------------------------------: | ------------------------ |
-| [main.cpp](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/EasyBreezy/Egypt/main.cpp) | source code              |
-| [Compile](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/EasyBreezy/HashMat/HowTo.md) | how the code is compiled |
+|                                                Folder                                                | Description  |
+| :--------------------------------------------------------------------------------------------------: | ------------ |
+| [main.cpp](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/EasyBreezy/Egypt/main.cpp) | source code  |
+|                                                Input                                                | uDebug Input |
