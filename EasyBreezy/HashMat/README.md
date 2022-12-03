@@ -1,4 +1,4 @@
-# Program 1:
+# Online Judge Problem 2:
 
 - Hashmat The Brave Warrior.
 - PDF: [HashMat](https://onlinejudge.org/external/100/10055.pdf)
