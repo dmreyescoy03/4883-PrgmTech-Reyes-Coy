@@ -16,4 +16,4 @@
 |                                                Folder                                                | Description  |
 | :--------------------------------------------------------------------------------------------------: | ------------ |
 | [main.cpp](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/EasyBreezy/Egypt/main.cpp) | source code  |
-|                                                Input                                                | uDebug Input |
+|    [Input](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/EasyBreezy/Egypt/input)    | uDebug Input |
