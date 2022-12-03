@@ -5,7 +5,7 @@
 | # | Folder Link                                                                                  | Progress  |
 | :-: | -------------------------------------------------------------------------------------------- | --------- |
 | 1 | [HashMat](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/tree/main/EasyBreezy/HashMat) | Completed |
-| 2 |                                                                                              |           |
+| 2 | Egypt                                                                                        | Completed |
 | 3 |                                                                                              |           |
 | 4 | []()                                                                                         |           |
 | 5 | []()                                                                                         |           |
