@@ -17,5 +17,5 @@
 
 |                                                Folder                                                | Description  |
 | :--------------------------------------------------------------------------------------------------: | ------------ |
-| [main.cpp]() | source code  |
-| [Input]()   | uDebug Input |
+| [main.cpp](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/EasyBreezy/One-Two-Three/main.cpp) | source code  |
+| [Input](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/EasyBreezy/One-Two-Three/input)   | uDebug Input |
