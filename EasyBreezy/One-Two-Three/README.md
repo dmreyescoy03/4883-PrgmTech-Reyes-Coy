@@ -10,6 +10,7 @@
 > and each word he wrote has a unique interpretation.
 > for each word, there might be at most one wrong letter.
 
+## Input:
 - The first line contains the number of words. Each of the following lines
    contains a single word The words satisfy the constraints above: at most 
    one letter might be wrong, but the word length is always correct.
