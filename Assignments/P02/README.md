@@ -15,8 +15,8 @@
 
 | Folder | Description |
 | :----: | ----------- |
-| [main.cpp]() | Main Code |
-| [in1]() | input Data |
+| [main.cpp](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/Assignments/P02/main.cpp) | Main Code |
+| [in1](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/Assignments/P02/in1) | input Data |
 
 # Data Structure:
 >- A part of c++ STL.
