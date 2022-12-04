@@ -10,5 +10,5 @@
 
 |                                                 Folder                                                 | Description              |
 | :----------------------------------------------------------------------------------------------------: | ------------------------ |
-| [main.cpp]() | source code |
-| [Input]() | uDebug Input|
+| [main.cpp](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/EasyBreezy/HelloWorld/main.cpp) | source code |
+| [Input](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/EasyBreezy/HelloWorld/input) | uDebug Input|
