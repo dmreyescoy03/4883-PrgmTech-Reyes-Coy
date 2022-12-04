@@ -15,6 +15,7 @@
  more requirements for its reorganization. In the first line of the block there is the integer N.
 > - In each of the next lines of the block there is a permutation of 1, 2, . . . , N. 
 > -The last block consists of just one line containing ‘0’. Meaning end of test case.
+
 > ex: output
 > - Yes
 > - No
@@ -27,6 +28,7 @@
 | [in1](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/Assignments/P03/input) | input Data |
 
 # Data Structure:
+### Stack / Array
 >- This Problem used a Stack, and an Array.
 > Storing the first train(A), to an Array, and the creating the second train(B).
 > It traverses the array comparing the index value to the popped value from the stack.
