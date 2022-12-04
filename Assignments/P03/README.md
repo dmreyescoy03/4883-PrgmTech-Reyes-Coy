@@ -27,9 +27,9 @@
 | [in1]() | input Data |
 
 # Data Structure:
->- A part of c++ STL.
-- A Map is used for this program. It takes a string (the tree name), and 
- an int (the percentage) and makes them a pair. Maps are always sorted
- by smallest element at the beginning to greatest element at the end.
+>- This Problem used a Stack, and an Array.
+> Storing the first train(A), to an Array, and the creating the second train(B).
+> It traverses the array comparing the index value to the popped value from the stack.
+> if they all match up then print "Yes" else "No". 
 
 
