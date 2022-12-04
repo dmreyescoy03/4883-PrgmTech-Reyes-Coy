@@ -23,8 +23,8 @@
 
 | Folder | Description |
 | :----: | ----------- |
-| [main.cpp]() | Main Code |
-| [in1]() | input Data |
+| [main.cpp](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/Assignments/P03/main.cpp) | Main Code |
+| [in1](https://github.com/dmreyescoy03/4883-PrgmTech-Reyes-Coy/blob/main/Assignments/P03/input) | input Data |
 
 # Data Structure:
 >- This Problem used a Stack, and an Array.
