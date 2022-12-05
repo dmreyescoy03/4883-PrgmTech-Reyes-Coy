@@ -1,14 +1,19 @@
+/*
+David Reyes-coy
+Class 4883
+Assignment 161 Trafic Lights
+*/
 #include <cstdio>
 #include <vector>
 
 using namespace std;
 
-const int numSecInMin = 60;
-const int numSecInHr = 60 * numSecInMin;
-const int fiveHours = 5 * numSecInHr;
+const int SECONDS = 60;
+const int HOURS = 60 * SECONDS;
+const int FHOURS = 5 * HOURS;
 
 
-bool AllGreen(const vector<int>& times, const vector<int>& doubleTimes, const int &currentTime)
+bool Green(vector<int>& times, vector<int>& doubleTimes, const int &currentTime)
 {
     for (int i = 0; i < times.size(); ++i)
     {
@@ -17,7 +22,6 @@ bool AllGreen(const vector<int>& times, const vector<int>& doubleTimes, const in
             return false;
         }
     }
-    
     return true;
 }
 
@@ -28,35 +32,35 @@ int main()
     while (scanf("%d", &firstLight), firstLight)
     {
         vector<int> times(1, firstLight);
-        vector<int> doubleTimes(1, firstLight * 2);
+        vector<int> xTimes(1, firstLight * 2);
         
         int num;
-        int min = firstLight;
+        int temp = firstLight;
         
         while (scanf("%d", &num), num)
         {
             times.push_back(num);
-            doubleTimes.push_back(num * 2);
-            if (num < min)
-                min = num;
+            xTimes.push_back(num * 2);
+            if (num < temp)
+                temp = num;
         }
         
-        int currentTime = min * 2;
+        int currentTime = temp * 2;
         
-        bool allGreen;
+        bool isGreen;
         
-        while (!(allGreen = AllGreen(times, doubleTimes, currentTime)) && currentTime <= fiveHours)
+        while (!(isGreen = Green(times, xTimes, currentTime)) && currentTime <= FHOURS)
         {
             ++currentTime;
         }
         
-        if (allGreen)
+        if (isGreen)
         {
-            int hr = currentTime / numSecInHr;
+            int hr = currentTime / HOURS;
             
-            printf("0%d:%02d:%02d\n", currentTime / numSecInHr, (currentTime - hr * numSecInHr) / numSecInMin, currentTime % numSecInMin);
+            printf("0%d:%02d:%02d\n", currentTime / HOURS, (currentTime - hr * HOURS) / 
+            SECONDS, currentTime % SECONDS);
         }
-        
         else
         {
             printf("Signals fail to synchronise in 5 hours\n");
