@@ -1,0 +1,22 @@
+#include <iostream>
+#include <cmath>
+#include <iomanip>
+using namespace std;
+
+const double PI = acos(-1);
+
+int main(){
+  int testCases = 0;
+  double length = 0;
+  double area = 0;
+  
+  cout << fixed << setprecision(2);
+  cin >> testCases;
+  
+  while(testCases--){
+    cin >> length;
+    area = PI * pow(length,2) / 25;
+    cout << area << " " <<
+      3* pow(length,2) /5 - area << '\n';
+  }
+}
